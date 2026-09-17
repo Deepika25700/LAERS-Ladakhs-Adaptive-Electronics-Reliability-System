@@ -1,0 +1,6 @@
+{
+  "name": "LAERS — Ladakh's Adaptive Electronics Reliability System",
+  "description": "Physics-Informed Predictive BMS for Extreme-Altitude Reliability (Ladakh's Adaptive Electronics Reliability System)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
